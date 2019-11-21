@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_844b467976ab7c234940f9581e8fe34bf199e1db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ce31e29a0ab905a2a2efce20a7679062078423d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.2.1\8de3aafecbdf98a61db6427f008f2d515bcd2544\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_d893e39586983a8019db3f9ba02faa117971cb7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_9602f47d81333123c3f744d6a6ece642a47466d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_62549c73753f39ba59aacd05b6c960e62f313e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_bdf9377870b30099bcd7808d38325cb6eeb7ed02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_807a051a085459e192750a5ea39f9156e6838406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c1c32b9406bd2da5b012bae617dc31bd62f95ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_41cbede4d88e0d638099a7eab1a95bc5ba4ec3ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_3286495880462c8f7698ae73c2bba289d677e8fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_766d4ab58ed101bc99ec7a836c854bef4c4219f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_51ec0323ed08d74b4e8797f4de0fcaf1caf4da15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_641ad9790a069af24cdf456bce81cf2b0c548f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7a91872b30d5d0810f9290de26ca91c44b2e5261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Memoona\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c0d03c0ebf86e7fb3b24c0b7dd0dc32ac585d3dd.jar" />
+    </item>
+
+</items>
